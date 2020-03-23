@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# User-defined
+runs/
+ddt/
+cache_dir/
+pytorch_model.bin
+bert_model.ckpt*
+config.json
+bert_config.json
+.DS_Store
+NER_BERT_FROM_SCRATCH.ipynb
+danish_bert_uncased_v2/vocab.txt
