@@ -60,7 +60,7 @@ pyarrow==2.0.0
 pyconll==2.3.3
 pycparser==2.20
 pydeck==0.5.0
-Pygments==2.7.3
+Pygments==2.7.4
 pyparsing==2.4.7
 pyrsistent==0.17.3
 PySocks==1.7.1
