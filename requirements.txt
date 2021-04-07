@@ -97,7 +97,7 @@ traitlets==5.0.5
 transformers==4.0.1
 tweepy==3.9.0
 tzlocal==2.1
-urllib3==1.26.3
+urllib3==1.26.4
 validators==0.18.1
 wandb==0.10.12
 watchdog==1.0.1
